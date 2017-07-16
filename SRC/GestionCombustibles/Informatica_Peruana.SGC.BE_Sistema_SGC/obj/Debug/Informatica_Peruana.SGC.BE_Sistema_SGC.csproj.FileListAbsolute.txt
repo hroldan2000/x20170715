@@ -78,3 +78,8 @@ D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema
 D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
 D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\FacturaProject\x20170715\SRC\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\FacturaProject\x20170715\SRC\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\FacturaProject\x20170715\SRC\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.csprojResolveAssemblyReference.cache
+D:\FacturaProject\x20170715\SRC\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\FacturaProject\x20170715\SRC\GestionCombustibles\Informatica_Peruana.SGC.BE_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
