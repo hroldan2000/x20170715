@@ -45,7 +45,7 @@ namespace GestionCombustibles
         }
         private void emisionFacturasBoletasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Facturacion  fr = new Facturacion();
+            Ventas.VentasDiarias  fr = new Ventas.VentasDiarias();
             fr.ShowDialog();
         }
 
